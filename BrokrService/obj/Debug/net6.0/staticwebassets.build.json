@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "6MswglOGqX92JwpC4wv1AoKHCrm+dToJa55RXfKLOJE=",
+  "Source": "BrokrService",
+  "BasePath": "_content/BrokrService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
